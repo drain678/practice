@@ -170,3 +170,13 @@ depot/*
 coqui_recipes/*
 local_scripts/*
 coqui_demos/*
+
+
+# ;( my checkpoints
+run-June-09-2025_03+10PM-dbf1a08a/*
+run-June-09-2025_02+55PM-dbf1a08a/*
+run-June-09-2025_03+14PM-dbf1a08a/*
+run-June-09-2025_03+45PM-dbf1a08a/*
+
+# extra dataset
+my_common_voice_dataset/*

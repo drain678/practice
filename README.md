@@ -1,3 +1,28 @@
+To train:
+
+1. git clone ...
+2. cd 
+3. Install Python 3.10.5
+4. python3.10 -m venv venv
+5. source venv/bin/activate
+6. pip install --upgrade pip  
+7. pip install -r requirements.txt
+8. pip install datasets   
+9. sudo apt install espeak   /   sudo apt install espeak-ng  (and check version: espeak --version   / espeak-ng --version)
+10. python3.10 train_my_tacotron.py
+
+
+brew unlink espeak   
+```bash
+pip install TTS
+```
+
+
+
+
+
+
+
 
 ## 🐸Coqui.ai News
 - 📣 ⓍTTSv2 is here with 16 languages and better performance across the board.

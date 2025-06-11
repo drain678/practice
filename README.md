@@ -1,18 +1,15 @@
 To train:
 
-1.
-```bash 
-  git clone https://github.com/drain678/practice 
-```
-2. ```bash cd practice ```
+1. git clone https://github.com/drain678/practice
+2. cd practice
 3. Install Python 3.10.5
-4. ```bash python3.10 -m venv venv ```
-5. ```bash source venv/bin/activate ```
-6. ```bash pip install --upgrade pip ```
-7. ```bash pip install -r requirements.txt ```
-8. ```bash pip install datasets ```
-9. ```bash sudo apt install espeak ``` or ```bash sudo sudo apt install espeak-ng ```
-10. ```bash python3.10 train_my_tacotron.py ```
+4. python3.10 -m venv venv
+5. source venv/bin/activate
+6. pip install --upgrade pip  
+7. pip install -r requirements.txt
+8. pip install datasets   
+9. sudo apt install espeak   or   sudo apt install espeak-ng
+10. python3.10 train_my_tacotron.py
 
 
 

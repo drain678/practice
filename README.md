@@ -1,8 +1,9 @@
 To train:
 
-1. ```bash 
+1.
+```bash 
   git clone https://github.com/drain678/practice 
-  ```
+```
 2. ```bash cd practice ```
 3. Install Python 3.10.5
 4. ```bash python3.10 -m venv venv ```
